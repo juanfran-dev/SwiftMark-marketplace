@@ -52,7 +52,7 @@
             class="flex items-center py-2 px-4 rounded-md text-md font-medium border border-cyan-500 hover:bg-cyan-50 text-cyan-700 cursor-pointer"
             @click="closeModal"
           >
-            Seguir comprando
+            Continue shopping
           </button>
           <button
             class="flex items-center py-2 px-4 rounded-md text-md font-medium bg-cyan-500 hover:bg-cyan-600 active:bg-cyan-700 text-white cursor-pointer"
